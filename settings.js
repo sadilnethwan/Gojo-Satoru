@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
+global.owner = ['94705248517']
+global.premium = ['94787579068']
 global.ownernomer = 'Your Number'
 global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.botname = 'Liza'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
